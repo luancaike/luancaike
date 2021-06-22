@@ -8,4 +8,4 @@ Meu nome é Luan Caike, sou dev full stack, e como principais linguagens tenho:
 
 #### Contatos
 
-[![Linkedin](./assets/Git%20buttons.png)](https://www.linkedin.com/in/luan-caike/) [![Email](./assets/Git%20buttons-1.png)](mailto:launcaike107@hotmail.com)
+[![Linkedin](./assets/Git%20buttons.png)](https://www.linkedin.com/in/luan-caike/) [![Email](./assets/Git%20buttons-1.png)](mailto:luancaike107@hotmail.com)
