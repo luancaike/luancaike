@@ -6,6 +6,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/luan-caike/"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/linkedin-842eff.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/luccaike"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/twitter-842eff.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.instagram.com/luan_caike"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-842eff.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
     <a href="mailto:luancaike107@hotmail.com"><img alt="Email" title="Email" src="https://img.shields.io/badge/Email-842eff?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
