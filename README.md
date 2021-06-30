@@ -4,20 +4,20 @@
 </h3>
 
 <p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=✨+4%2B+anos+de+experi%C3%AAncia;🐛+Mestre+em+consertar%2Fcriar+bugs;📚+Sempre+aprendendo+coisas+novas;💻+Desenvolvedor+Web%2FApp+FullStack&center=true&color=b18ae9&width=380&height=45"></a>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/luan-caike/"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/linkedin-b18ae9.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/luccaike"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/twitter-33b5c6.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://www.instagram.com/luan_caike"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-ed72b6.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
     <a href="mailto:luancaike107@hotmail.com"><img alt="Email" title="Email" src="https://img.shields.io/badge/Email-4de874?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-## 🔥 Streak stats
-
-<!-- GitHub Readme Streak Stats - https://github.com/Luan/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Luan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=luancaike&theme=dracula&hide_border=true"/>
   </a>
-  <p align="center">🔥 Adicione Streak Stats ao seu perfil também <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
 </p>
 
 
