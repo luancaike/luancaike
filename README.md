@@ -39,6 +39,7 @@
     <a href="https://github.com/search?q=user%3ALuan+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ALuan+is%3Arepo+language%3Asvg"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML%20-%23e0982c.svg?logo=svg&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ALuan+is%3Arepo+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?logo=typescript&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ALuan+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white"></a>
 </p>
 
 ### 🧰 Frameworks e Bibliotecas
@@ -66,12 +67,14 @@
     <a href="#"><img alt="Mocha" src="https://img.shields.io/badge/-mocha-%238D6748?logo=mocha&logoColor=white"/></a>
     <a href="#"><img src="https://img.shields.io/badge/-cypress-%23E5E5E5?logo=cypress&logoColor=058a5e" alt="cypress"></a>
     <a href="#"><img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white"/></a>
+    <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white"/></a>
 </p>
 
 ### 🗄️ Banco de Dados e Nuvem
 
 <p>
     <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white"/></a>
+    <a href="#"><img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?logo=microsoftazure&logoColor=white"/></a>  
     <a href="#"><img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalOcean&logoColor=white"/></a>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
@@ -99,7 +102,8 @@
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"></a>
     <a href="#"><img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" /></a>
     <a href="#"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white"/></a>
-    <a href="#"><img alt="WebStorm" src="https://img.shields.io/badge/WebStorm%20-%23000000.svg?logo=webstorm&logoColor=white"></a>    
+    <a href="#"><img alt="pycharm" src="https://img.shields.io/badge/pycharm-143?logo=pycharm&logoColor=white"></a>    
+    <a href="#"><img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>  
 </p>
 
 ## 📊 Estatísticas
